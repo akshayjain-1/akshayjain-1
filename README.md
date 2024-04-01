@@ -18,7 +18,6 @@ I'm Akshay Jain, a recent graduate in MS in Computer Science with specialization
 
 🌐 Explore my [Portfolio](https://yourportfolio.com) to dive into my cybersecurity projects and contributions.<br>
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-r-jain/) for discussions, knowledge sharing, and collaboration opportunities.<br>
-👀 Don't miss hitting the [Follow](https://github.com/yourusername) button to stay updated on my latest cybersecurity endeavors and contributions.<br>
 
 ### 🚀 Follow Me on GitHub
 
