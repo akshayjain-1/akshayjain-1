@@ -61,7 +61,7 @@ Get a random coding challenge on [LeetCode](https://leetcode.com/problems/random
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/akshayjain-1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
