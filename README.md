@@ -50,13 +50,13 @@ Get a random coding challenge on [LeetCode](https://leetcode.com/problems/random
 ### 📦 My Repositories
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/akshayjain-1/data-structures-algorithms-python" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=data-structures-algorithms-python&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/akshayjain-1/Awesome-Hacking" title="Hacking Resources"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Awesome-Hacking&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href=" https://github.com/akshayjain-1/Remote-DLL-Injection" title="Remote DLL Injection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Remote-DLL-Injection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/akshayjain-1/Keylogger" title="Keylogger"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Keylogger&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/akshayjain-1/cheat.sh" title="Cheat Sheet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=cheat.sh&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/akshayjain-1/Detection-and-Prevention-of-Various-Cyber-Attacks-on-Mobile-Network" title="Cybe attacks on Mobile networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Detection-and-Prevention-of-Various-Cyber-Attacks-on-Mobile-Network&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/akshayjain-1/IntegrityWatch-Python-Based-File-Integrity-Monitoring-System" title="File Integrity Monitoring"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=IntegrityWatch-Python-Based-File-Integrity-Monitoring-System&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/akshayjain-1/PhishGuard" title="PhishGuard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=PhishGuard&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
