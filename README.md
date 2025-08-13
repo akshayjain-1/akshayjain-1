@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akshayjain-1.akshayjain-1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2CF700&background=000000FB&multiline=true&random=false&width=700&height=120&lines=Welcome+to+the+GitHub+Matrix.+;Buckle+up%2C+dear+coder%2C+;For+we+are+about+to+defy+expectations+;and+rewrite+the+future+of+technology!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&color=2CF700&background=000000FB&multiline=true&random=false&width=700&height=120&lines=Welcome+to+the+GitHub+Matrix.+;Buckle+up%2C+dear+coder%2C+;For+we+are+about+to+defy+expectations+;and+rewrite+the+future+of+technology!)](https://git.io/typing-svg)
 
 ### 🌟 Welcome to My GitHub Profile! 🛡️
 
