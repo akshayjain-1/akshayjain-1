@@ -122,27 +122,10 @@ const akshay = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjain-1&theme=green&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false&custom_title=📡%20Contribution%20Signal%20Activity" width="100%"/>
 
 ---
-S
+
 <!-- REPOSITORIES -->
 
 ### `> find /repos -type f -name "*.exploit" | head -4`
-
-<div align="center">
-
-<a href="https://github.com/akshayjain-1/Remote-DLL-Injection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Remote-DLL-Injection&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
-</a>
-<a href="https://github.com/akshayjain-1/Keylogger">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Keylogger&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
-</a>
-<a href="https://github.com/akshayjain-1/IntegrityWatch-Python-Based-File-Integrity-Monitoring-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=IntegrityWatch-Python-Based-File-Integrity-Monitoring-System&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
-</a>
-<a href="https://github.com/akshayjain-1/PhishGuard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=PhishGuard&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
-</a>
-
-</div>
 
 <div align="center">
 
@@ -171,22 +154,6 @@ S
 <div align="center">
 
 🎯 Sharpen your attack vectors — grab a random challenge on **[LeetCode](https://leetcode.com/problems/random-one-question/)** and level up your problem-solving recon skills.
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-
-### `> nmap -sS github.com/akshayjain-1 --script=contribution-snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
