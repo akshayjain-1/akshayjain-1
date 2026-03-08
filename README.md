@@ -122,19 +122,7 @@ const akshay = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjain-1&theme=green&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false&custom_title=📡%20Contribution%20Signal%20Activity" width="100%"/>
 
 ---
-
-<!-- TROPHIES -->
-
-### `> ls -la /achievements/trophies/`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshayjain-1&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
+S
 <!-- REPOSITORIES -->
 
 ### `> find /repos -type f -name "*.exploit" | head -4`
