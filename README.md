@@ -1,67 +1,224 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akshayjain-1.akshayjain-1">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=2CF700&background=000000FB&multiline=true&random=false&width=700&height=120&lines=Welcome+to+the+GitHub+Matrix.+;Buckle+up%2C+dear+coder%2C+;For+we+are+about+to+defy+expectations+;and+rewrite+the+future+of+technology!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=AKSHAY%20JAIN&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=%F0%9F%94%90%20Cyber%20Security%20Specialist%20%7C%20Threat%20Hunter%20%7C%20Red%20Team%20Ops&descSize=18&descColor=00ff41&descAlignY=55&animation=twinkling" width="100%"/>
 
-### 🌟 Welcome to My GitHub Profile! 🛡️
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akshayjain-1.akshayjain-1&left_color=black&right_color=00ff41"/>
 
-<p>
-Greetings👋 <br>
-I'm Akshay Jain, a recent graduate in MS in Computer Science with specialization in Cyber Security. Delighted to welcome you to my GitHub profile! <br>
-<br>
-🔭 Currently, I'm dedicated to strengthening my skills in threat detection and incident response, developing robust SOAR integrations, and actively contributing to open-source projects in the cybersecurity domain.<br>
-🌱 Constantly exploring innovative approaches to enhance security posture, leveraging automation, and streamlining incident response processes.<br>
-💡 Passionate about collaborating on impactful open-source initiatives that advance cybersecurity practices and foster community-driven innovation.<br>
-🌱 Always eager to upskill and stay ahead of the curve, I'm committed to learning new concepts and techniques in cybersecurity to enhance my knowledge and expertise.<br>
-</p>
-
-### 🚀 Let's Connect and Collaborate on Securing the Digital World!
-
-🌐 Explore my [Portfolio](https://akshayjain-1.github.io/AkshayJain/#home) to dive into my cybersecurity projects and contributions.<br>
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-r-jain/) for discussions, knowledge sharing, and collaboration opportunities.<br>
-
-### 🚀 Follow Me on GitHub
-
-[![Follow Me](https://img.shields.io/github/followers/akshayjain-1?style=social)](https://github.com/akshayjain-1)
-
-### 😄 Random Programming Jokes
-
-![Jokes](https://readme-jokes.vercel.app/api)
-
-### 💡 Random Coding Challenges
-
-Get a random coding challenge on [LeetCode](https://leetcode.com/problems/random-one-question/) to practice your problem-solving skills.
-
-
-### 📊 GitHub Activity and Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjain-1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/><br>
-
-### 🏆 GitHub Trophies and Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshayjain-1)
-
-<!--
-### 📝 Latest Blog Posts
-
-- [Introduction to Machine Learning](https://example.com/intro-to-ml): An introductory guide to machine learning concepts.
-- [Building a RESTful API with Node.js](https://example.com/building-rest-api-nodejs): Step-by-step tutorial on creating a RESTful API using Node.js.
-- [10 Tips for Effective Code Review](https://example.com/code-review-tips): Best practices and strategies for conducting code reviews.
--->
-### 📦 My Repositories
-
-<div width="100%" align="center">
-  <a align="left" href=" https://github.com/akshayjain-1/Remote-DLL-Injection" title="Remote DLL Injection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Remote-DLL-Injection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/akshayjain-1/Keylogger" title="Keylogger"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Keylogger&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/akshayjain-1/IntegrityWatch-Python-Based-File-Integrity-Monitoring-System" title="File Integrity Monitoring"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=IntegrityWatch-Python-Based-File-Integrity-Monitoring-System&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/akshayjain-1/PhishGuard" title="PhishGuard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=PhishGuard&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/akshayjain-1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<!-- TERMINAL HEADER -->
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ██████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗███████╗ ██████╗       │
+│  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔════╝       │
+│  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗█████╗  ██║            │
+│  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██╔══╝  ██║            │
+│  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ███████║███████╗╚██████╗       │
+│   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝       │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+sudo+access+--grant+visitor+--level+TOP_SECRET;%24+Initializing+secure+connection...+ACCESS+GRANTED+%E2%9C%93)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- ABOUT ME - TERMINAL STYLE -->
+
+### `> whoami`
+
+```bash
+┌─[akshay@cybersec]─[~/profile]
+└──╼ $ cat about_me.txt
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  OPERATIVE: Akshay Jain                                             ║
+║  CLEARANCE: MS Computer Science — Cyber Security Specialization     ║
+║  STATUS:    ACTIVE                                                  ║
+║  MISSION:   Securing the digital frontier                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="left">
+
+```js
+const akshay = {
+    role:       "Cybersecurity Engineer",
+    focus:      ["Threat Detection", "Incident Response", "SOAR", "Red Teaming"],
+    languages:  ["Python", "C", "PowerShell", "Bash"],
+    tools:      ["Burp Suite", "Wireshark", "Metasploit", "Nmap", "Splunk"],
+    certGoals:  ["OSCP", "CRTP", "GCIH"],
+    motto:      "There is no patch for human stupidity."
+};
+```
+
+</div>
+
+> 🔴 **Currently:** Strengthening threat detection & incident response, building SOAR integrations, and contributing to open-source cybersecurity tools.  
+> 🟢 **Always:** Exploring offensive security techniques, automating defenses, and staying ahead of the threat landscape.
+
+---
+
+<!-- SKILLS & ARSENAL -->
+
+### `> cat /etc/arsenal.conf`
+
+<div align="center">
+
+| 🗡️ Offensive | 🛡️ Defensive | ⚙️ Tools & Platforms | 💻 Languages |
+|:---:|:---:|:---:|:---:|
+| Penetration Testing | Threat Hunting | Burp Suite | Python |
+| Red Team Ops | SIEM/SOAR | Metasploit | C/C++ |
+| Social Engineering | Incident Response | Wireshark | PowerShell |
+| Exploit Development | Malware Analysis | Nmap / Nessus | Bash |
+| DLL Injection | Log Analysis | Splunk / ELK | JavaScript |
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+### `> netstat -an | grep ESTABLISHED`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00ff41)](https://akshayjain-1.github.io/AkshayJain/#home)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/akshay-r-jain/)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/akshayjain-1)
+[![Follow](https://img.shields.io/github/followers/akshayjain-1?style=for-the-badge&logo=github&label=Follow&color=000000&labelColor=000000)](https://github.com/akshayjain-1)
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+### `> systemctl status github-stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshayjain-1&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&ring_color=00ff41&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjain-1&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=00ff41" />
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+
+### `> tail -f /var/log/contributions.log`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjain-1&theme=green&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false&custom_title=📡%20Contribution%20Signal%20Activity" width="100%"/>
+
+---
+
+<!-- TROPHIES -->
+
+### `> ls -la /achievements/trophies/`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshayjain-1&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- REPOSITORIES -->
+
+### `> find /repos -type f -name "*.exploit" | head -4`
+
+<div align="center">
+
+<a href="https://github.com/akshayjain-1/Remote-DLL-Injection">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Remote-DLL-Injection&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
+</a>
+<a href="https://github.com/akshayjain-1/Keylogger">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=Keylogger&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
+</a>
+<a href="https://github.com/akshayjain-1/IntegrityWatch-Python-Based-File-Integrity-Monitoring-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=IntegrityWatch-Python-Based-File-Integrity-Monitoring-System&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
+</a>
+<a href="https://github.com/akshayjain-1/PhishGuard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayjain-1&repo=PhishGuard&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![Show More](https://img.shields.io/badge/🔍_Explore_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/akshayjain-1?tab=repositories)
+
+</div>
+
+---
+
+<!-- JOKE -->
+
+### `> fortune | cowsay -f hacker`
+
+<div align="center">
+
+![Jokes](https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300ff41&aColor=%2300ff41&borderColor=%2300ff41)
+
+</div>
+
+---
+
+<!-- CODING CHALLENGE -->
+
+### `> ./daily_exploit_challenge.sh`
+
+<div align="center">
+
+🎯 Sharpen your attack vectors — grab a random challenge on **[LeetCode](https://leetcode.com/problems/random-one-question/)** and level up your problem-solving recon skills.
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+
+### `> nmap -sS github.com/akshayjain-1 --script=contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akshayjain-1/akshayjain-1/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   [LOG] Session monitored. All interactions recorded.                        │
+│   [SYS] "The quieter you become, the more you are able to hear." — Kali     │
+│   [END] Connection terminated. Stay paranoid, stay safe. 🔒                  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
 
 
